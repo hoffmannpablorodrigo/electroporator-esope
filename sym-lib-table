@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MUR460") (type "KiCad") (uri "${KIPRJMOD}/Bibliotecas_SnapEDA/MUR460/MUR460_sym/MUR460.kicad_sym") (options "") (descr ""))
+)

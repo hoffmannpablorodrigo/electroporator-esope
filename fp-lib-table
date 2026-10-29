@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MUR4100ERLG_footprint") (type "KiCad") (uri "${KIPRJMOD}/Bibliotecas_SnapEDA/MUR4100/MUR4100ERLG_footprint") (options "") (descr ""))
+	(lib (name "MUR460_footprint") (type "KiCad") (uri "${KIPRJMOD}/Bibliotecas_SnapEDA/MUR460/MUR460_footprint") (options "") (descr ""))
+)

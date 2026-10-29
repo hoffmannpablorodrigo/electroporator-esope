@@ -1,0 +1,21 @@
+# VS Code local history
+.history/
+.vscode/
+
+# KiCad temporary & lock files
+*.lck
+*.kicad_prl
+*-save.kicad_sch
+*-save.kicad_pcb
+_autosave-*
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Temporary reports and build outputs
+*.net
+*.erc
+*.drc
+erc_report.json
+drc_report.json
+gerbers/
