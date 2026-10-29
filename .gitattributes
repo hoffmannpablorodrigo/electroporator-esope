@@ -1,0 +1,9 @@
+# Force GitHub Linguist to highlight KiCad files in repository statistics
+*.kicad_pcb linguist-detectable=true
+*.kicad_sch linguist-detectable=true
+*.kicad_pro linguist-detectable=true
+
+# Ignore documentation, PDFs, and HTML from language statistics
+*.md linguist-detectable=false
+*.pdf linguist-detectable=false
+*.html linguist-detectable=false
